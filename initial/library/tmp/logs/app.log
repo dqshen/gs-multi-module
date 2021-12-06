@@ -1,5 +1,0 @@
-2021-12-02 16:52:02,555 INFO com.example.multimodule.service.MyServiceTest: Line.55 [main] Starting MyServiceTest using Java 17.0.1 on openfire with PID 20720 (started by kd-dqs in e:\projects\spring-guide\gs-multi-module\initial\library)
-2021-12-02 16:52:02,558 DEBUG com.example.multimodule.service.MyServiceTest: Line.56 [main] Running with Spring Boot v2.5.2, Spring v5.3.8
-2021-12-02 16:52:02,562 INFO com.example.multimodule.service.MyServiceTest: Line.659 [main] No active profile set, falling back to default profiles: default
-2021-12-02 16:52:03,799 INFO com.example.multimodule.service.MyServiceTest: Line.61 [main] Started MyServiceTest in 2.874 seconds (JVM running for 5.023)
-2021-12-02 16:52:04,566 INFO com.example.multimodule.service.MyService: Line.20 [main] MyService.message fire
